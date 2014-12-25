@@ -1,0 +1,42 @@
+* {
+    font-family: "Lucida Grande", sans-serif;
+    font-size: 16px;
+    color: #666;
+    line-height: 32px;
+}
+
+
+/*Headers*/
+
+h1 {
+    font-size: 48px;
+    margin-top: 46px;
+}
+
+h2 {
+    color: #f07c17;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.description {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+
+/*Content*/
+
+.content {
+    margin-top: 20px; 
+}
+
+.feature {
+    border: 1px solid #ccc;
+    margin-top: 29px;
+    padding: 10px 30px;
+}
+
+ul {
+    padding: 20px 40px;
+}
